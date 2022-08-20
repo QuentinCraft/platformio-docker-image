@@ -6,7 +6,7 @@ Docker Hub Image : eqdev/platformio
 ## To pull the image : 
 > docker pull eqdev/platformio
 
-## Version : 
+## Available tag name : 
 > - 1.0  
 > - latest
 
