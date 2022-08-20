@@ -1,6 +1,8 @@
 # platformio-docker-image
 Docker Hub Image : eqdev/platformio
 
+----------------------------
+
 ## To pull the image : 
 > docker pull eqdev/platformio
 
@@ -13,6 +15,7 @@ Docker Hub Image : eqdev/platformio
 
 ##### Please note: the "myproject" folder must contain the platformio.ini file
 
+----------------------------
 
 ```text
 Copyrights EQ-0 - 2022, All Rights Reserved
